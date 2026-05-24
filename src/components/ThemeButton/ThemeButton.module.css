@@ -1,0 +1,10 @@
+.themeButton {
+    max-width: 600px;
+    margin-inline: auto;
+    padding: 16px;
+    background-color: var(--card-color);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

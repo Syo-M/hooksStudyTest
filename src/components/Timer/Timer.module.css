@@ -1,0 +1,22 @@
+.timer {
+    max-width: 600px;
+    margin-inline: auto;
+    padding: 16px;
+    margin-block: 24px;
+    background-color: var(--card-color);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.timer h2 {
+    margin-top: 0;
+}
+
+.timer button {
+    padding: 8px 16px;
+    margin-right: 8px;
+    border: none;
+    border-radius: 4px;
+    background-color: var(--button-bg);
+    color: var(--button-text);
+}
