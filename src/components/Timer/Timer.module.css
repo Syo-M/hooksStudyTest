@@ -12,6 +12,12 @@
     margin-top: 0;
 }
 
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
 .timer button {
     padding: 8px 16px;
     margin-right: 8px;
